@@ -1,4 +1,6 @@
 # PUBU
+Freelance project for pubu
+
 
 [link](https://superoo7.github.io/pubu/index.html)
 
