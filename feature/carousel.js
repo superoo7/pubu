@@ -4,7 +4,7 @@ function carousel() {
   showcase.Cloud9Carousel({
 
     yOrigin: 0,
-    yRadius: 10,
+    yRadius: 0,
     mirror: {
       gap: 5,
       height: 0.2
