@@ -18,7 +18,8 @@ pieces1
   text-align: center;
 }
 
-#showcase img {}
+#showcase img {
+}
 
 #showcase img:hover, #showcase img:active {
   transform: scale(1.1, 1.1);

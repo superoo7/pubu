@@ -4,7 +4,7 @@ function carousel() {
   showcase.Cloud9Carousel({
 
     yOrigin: 0,
-    yRadius: 0,
+    yRadius: 10,
     mirror: {
       gap: 5,
       height: 0.2
@@ -12,6 +12,8 @@ function carousel() {
     buttonLeft: $("#nav > .left"),
     buttonRight: $("#nav > .right"),
     autoPlay: 1,
+    speed: 10,
+    autoPlayDelay: 1200,
     bringToFront: true,
     onRendered: rendered,
     onLoaded: function() {
