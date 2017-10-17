@@ -5,6 +5,7 @@ function carousel() {
 
     yOrigin: 0,
     yRadius: 10,
+    xRadius: 800,
     mirror: {
       gap: 5,
       height: 0.2
